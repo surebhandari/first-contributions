@@ -11931,7 +11931,6 @@ Bryan Romero
 - [omprakash_swami](https://github.com/opswami75)
 - [Agis Kounelis](https://github.com/AgisKounelis)
 - [Kameel](https://github.com/kam-eeel)
-- [Sure](https://github.com/surebhandari)
 - [Abhishek Ahirwar](https://github.com/abhiahirwar
 - [jt120](https://github.com/jt120)
 - [ferminht](https://github.com/ferminhg)
@@ -11940,6 +11939,7 @@ Bryan Romero
 - [John Prideaux](https://github.com/jpridx)
 - [Javad Yadegari](https://github.com/jyadegari)
 - [Sashwat Anagolum](https://github.com/SashwatAnagolum)
+- [Sure B](https://github.com/surebhandari)
 - [thojest](https://github.com/thojest)
 - [Kevin Satur](https://github.com/math-ecen)
 - [Bohdan Konorin](https://github.com/bogdaner2)
